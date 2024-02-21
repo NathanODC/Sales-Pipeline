@@ -1,0 +1,10 @@
+logs/**
+
+lib/**
+
+support/key.json
+
+tmp/processed/**
+tmp/to_process/**
+
+**/__pycache__/
